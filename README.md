@@ -19,7 +19,7 @@
 >11. Thống kê dữ liệu
 >12. Tìm kiếm thông tin
 >13. Xem danh sách thông tin tương ứng
-<p align="right">(<a href="#readme-top">Quay lại đầu trang ⏫</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Xây dựng bởi 💖
 ---
@@ -27,7 +27,7 @@
 [![ss](https://img.shields.io/badge/.NET_Framework-link-yellow)](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 [![ss](https://img.shields.io/badge/Winform-link-red)](https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/?view=netframeworkdesktop-4.8)
 ![ss](https://img.shields.io/badge/C_Sharp-8A2BE2)
-<p align="right">(<a href="#readme-top">Quay lại đầu trang ⏫</a>)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🎆🎆Bắt đầu🎆🎆
 ---
@@ -42,7 +42,7 @@ Cài đặt Sql Sever
 Vào phần Browse của Manage Nuget
 --> Cài System.Windows.Forms.DataVisualization.Charting và iTextSharp
 ```
-<p align="right">(<a href="#readme-top">Quay lại đầu trang ⏫</a>)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 😍🥰 Đóng góp 😍🥰
 ---
@@ -51,6 +51,6 @@ Vào phần Browse của Manage Nuget
 ##### Trịnh Minh Tâm - 52200124
 ##### Nguyễn Hoàng Huy - 52200068
 ##### Nguyễn Xuân Hoàng Cường - 52200098
-<p align="right">(<a href="#readme-top">Quay lại đầu trang ⏫</a>)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
